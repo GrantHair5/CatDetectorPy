@@ -10,6 +10,12 @@ python 3
 
 OpenCV 
 
+Raspberry Pi 3
+
+Raspbian
+
+https://www.amazon.co.uk/LABISTS-Raspberry-Camera-Module-OV5647/dp/B084X8MZ9J LABISTS RPI Camera Module
+
 # How To Run
 
 `python app.py` 
