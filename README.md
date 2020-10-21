@@ -1,6 +1,10 @@
 # CatDetectorPy
 Python with OpenCV cat detector using Haar cascade classifier 
 
+# Screenshot ft. Pumpkin
+
+![https://raw.githubusercontent.com/GrantHair5/CatDetectorPy/main/Screenshots/rsz_2020-10-21-222022_1920x1080_scrot.png](https://raw.githubusercontent.com/GrantHair5/CatDetectorPy/main/Screenshots/rsz_2020-10-21-222022_1920x1080_scrot.png)
+
 # Tech Stack
 python 3 
 
